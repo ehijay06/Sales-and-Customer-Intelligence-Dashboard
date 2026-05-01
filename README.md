@@ -110,8 +110,8 @@ Employee and sales target tracking:
 - Star Schema (CSV): [Download Dataset](https://github.com/ehijay06/Sales-and-Customer-Intelligence-Dashboard//blob/main/SalesInt)
 - Dashboard: [Download PBIX](https://github.com/ehijay06/Sales-and-Customer-Intelligence-Dashboard//blob/main/SalesIntelligence.pbix)
 
-### 👤 AUTHOR
-Nosa-Jeffery
+## 👤 AUTHOR
+### Nosa-Jeffery
 Data Analyst | Power BI Developer
 
 ### Skilled in:

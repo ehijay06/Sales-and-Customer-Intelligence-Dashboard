@@ -52,11 +52,11 @@ Each KPI is supported with granular breakdowns to reveal the drivers behind head
 ### DATA MODEL
 The dashboard is built on a structured data model connecting sales transactions to dimension tables:
 
-DIM_Product  |
-DIM_Customer |
-DIM_Employee | ───► FACT_Sales ◄── DIM_Date
-DIM_Location |
-DIM_Category |
+- DIM_Product  |
+- DIM_Customer |
+- DIM_Employee | ───► FACT_Sales ◄── DIM_Date
+- DIM_Location |
+- DIM_Category |
 
 ### TOOLS AND TECHNOLOGIES USED
 

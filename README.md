@@ -102,7 +102,7 @@ Employee and sales target tracking:
 ### DASHBOARD PREVIEW 
 #
 <img width="1462" height="1716" alt="photo_1_2026-05-02_00-45-37" src="https://github.com/user-attachments/assets/aded1164-9b26-472a-8e9f-1977340c359f" />
-# 
+
 <img width="1468" height="1708" alt="photo_2_2026-05-02_00-45-37" src="https://github.com/user-attachments/assets/d169e085-6330-4afe-878c-59588628f290" />
 # 
 ### HOW TO USE

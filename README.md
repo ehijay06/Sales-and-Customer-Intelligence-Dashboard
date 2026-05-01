@@ -107,8 +107,8 @@ Employee and sales target tracking:
 
 ### PROJECT FILES
 
-- Dataset (Excel): Download Dataset
-- Dashboard: Download PBIX
+- Star Schema (CSV): [Download Dataset](https://github.com/ehijay06/Sales-and-Customer-Intelligence-Dashboard//blob/main/SalesInt)
+- Dashboard: [Download PBIX](https://github.com/ehijay06/Sales-and-Customer-Intelligence-Dashboard//blob/main/SalesIntelligence.pbix)
 
 ### 👤 AUTHOR
 Nosa-Jeffery
